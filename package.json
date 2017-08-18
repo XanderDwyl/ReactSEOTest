@@ -1,5 +1,5 @@
 {
-  "name": "React SEO Test",
+  "name": "ReactSEOTest",
   "version": "1.0.0",
   "description": "A test to deterine if google will index a client-side react app",
   "main": "index.js",
